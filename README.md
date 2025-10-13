@@ -67,4 +67,4 @@ Q: Please purchase 200 ETH worth of DogeBlast for me.
 
 ## Support
 This has backend repo more and that is private for now. <br/>
-For support and further inquiries, please connect via Telegram: [soulcapridev](https://t.me/soulcapridev).
+For support and further inquiries, please connect via Telegram: [soulcrancerdev](https://t.me/soulcrancerdev).
