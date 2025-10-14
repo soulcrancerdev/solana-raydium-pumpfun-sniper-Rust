@@ -1,7 +1,7 @@
-# Fourmeme BSC Sniper Bot in Rust & TypeScript 🚀
+# Fourmeme Trading Bot in Rust & TypeScript 🚀
 
 ## ⚡ Overview
-A high-speed, hybrid sniping bot for **BSC** meme tokens, optimized for **Fourmeme** launches. Built with **Rust** for ultra-fast, reliable transactions and **TypeScript** for flexible event monitoring, heuristics, and trading logic.
+A high-speed, hybrid sniping bot, bundler bot, volume bot for **BSC** meme tokens, optimized for **Fourmeme** launches. Built with **Rust** for ultra-fast, reliable transactions and **TypeScript** for flexible event monitoring, heuristics, and trading logic.
 
 ---
 
